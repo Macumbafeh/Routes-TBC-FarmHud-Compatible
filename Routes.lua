@@ -3080,4 +3080,10 @@ function G:HideLines(C)
 	end
 end
 
+function Routes:ReparentMinimap(minimap)
+	self.G:HideLines(Minimap)
+	Minimap = minimap
+	throttleFrame:Show()
+end
+
 -- vim: ts=4 noexpandtab
