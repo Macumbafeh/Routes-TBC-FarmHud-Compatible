@@ -1,6 +1,6 @@
-# Routes TBC (compatible with ![FarmHud-TBC](https://github.com/XiconQoo/FarmHud-TBC))
+# Routes TBC (compatible with [FarmHud-TBC](https://github.com/XiconQoo/FarmHud-TBC))
 
-This is a fork of ![Routes r185](https://www.wowace.com/projects/routes/files/298607).
+This is a fork of [Routes r185](https://www.wowace.com/projects/routes/files/298607).
 
 ## Changes
 
