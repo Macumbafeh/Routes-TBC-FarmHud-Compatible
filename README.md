@@ -2,6 +2,10 @@
 
 This is a fork of [Routes r185](https://www.wowace.com/projects/routes/files/298607).
 
+## Screenshot
+
+![Screenshot](../media/screenshot/screenshot.jpg)
+
 ## Changes
 
 - added the global function Routes:ReparentMinimap, which allows changing Routes assigned MiniMap
